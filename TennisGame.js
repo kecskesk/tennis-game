@@ -7,10 +7,8 @@ class TennisGame {
     }
 
     getScore() {
-
-    //TODO implement
+        //TODO implement
     }
-
    
 
     playerOneScores() {
